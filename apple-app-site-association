@@ -1,0 +1,11 @@
+{
+"applinks": {
+"apps": [],
+"details": [
+{
+"appID": "22F7KC67T3.com.MaoTianXia.app",
+"paths": ["/applinks/*","/wwdc/news/","*"]
+}
+]
+}
+}
